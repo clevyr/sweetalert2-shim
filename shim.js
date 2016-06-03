@@ -6,6 +6,6 @@
 (
   function(){
     'use strict';
-    window.sweetalert2 = window.sweetalert;
+    window.sweetAlert2 = window.sweetAlert;
   }
 )();
